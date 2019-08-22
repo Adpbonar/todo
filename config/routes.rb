@@ -1,4 +1,4 @@
 Rails.application.routes.draw do
-root 'static_pages#index'
-resources :tasks
+  root 'static_pages#index'
+  resources :tasks
 end
