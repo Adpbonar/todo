@@ -1,4 +1,4 @@
-# README
+# The To-Do List
 
 Built using Ruby 2.5.3 and Rails 5.2.3, this single page to-do application features a fluid user interface. By using JavaScript users can rapidly add dynamic content.
 
