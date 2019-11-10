@@ -1,24 +1,9 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Built using Ruby 2.5.3 and Rails 5.2.3, this single page to-do application features a fluid user interface. By using JavaScript users can rapidly add dynamic content.
 
-Things you may want to cover:
 
-* Ruby version
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+<img src="http://www.devanpotterbonar.com/assets/todoster-6c77634d8a95020ccd8fcfb9233181965e2a1d11aae21e876b59da824fdda143.png" />
+<br />
+Kick the tires: https://todolist-devanpotterbonar.herokuapp.com.
